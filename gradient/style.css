@@ -1,0 +1,329 @@
+
+
+
+
+div {
+	margin: 1px;
+}
+
+.planets{
+  color: white;
+  font-family: Arial;
+}
+#mercury{
+  color: #5A5553;
+  font-size: 38%
+}
+#venus{
+  color: #DBCECA;
+  font-size: 95%
+}
+#earth{
+  color: #91bfff;
+  font-size:
+}
+#mars{
+  color: #c1440e;
+  font-size: 53%
+}
+#jupiter{
+  color: #D39C7E;
+  font-size:1120%
+}
+#saturn{
+  color: #C5AB6E;
+  font-size:940%
+}
+#uranus{
+  color: #BBE1E4;
+  font-size: 400%
+}
+#neptune{
+  color: #3E66F9;
+  font-size: 388%
+}
+#pluto{
+  /*we miss you buddy*/
+}
+.Burger{
+  width: 200px;
+  text-align: center;
+  font-size: 50px;
+}
+#topbun{
+  color: rgb(220, 140, 60); 
+  font-family:Impact, fantasy
+}
+#tomato{
+  color: red;
+}
+#lettece{
+  color: green;
+}
+#cheese{
+  color: orange;
+}
+#meat{
+  color: brown;
+}
+#botbun{
+  color: rgb(220, 140, 60); 
+  font-family:Impact, fantasy
+     
+}
+
+.cooking{
+  color: red;
+  font-family:Helvetica, sans-serif;
+  font-weight: 900
+}
+#well{
+  color:rgb(217, 136, 128)  
+}
+#medwell{
+  color:rgb(205, 97, 85);
+}
+#med{ 
+  color:rgb(192, 57, 43)
+}
+#medrare{
+  color:rgb(169, 50, 38)
+}
+#rare{
+  color:rgb(146, 43, 33)
+}
+#blue{
+  color:rgb(120, 37, 28)
+}
+
+
+.vacc{
+  font-family:Gill Sans, sans-serif;
+  font-weight: Bold
+}
+#vacc_5 {
+	color:rgb(0,39,0);
+}
+
+#vacc_4 {
+	color:rgb(0,78,0); 
+}
+
+#vacc_3 {
+	color:rgb(0,98,0); 
+}
+
+#vacc_2 {
+	color:rgb(0,118,0);
+}
+
+#vacc_1 {
+	color:rgb(0,137,0);	
+}
+
+.water{
+  font: Optima, sans-serif;
+  font-size: 30px;
+}
+#temp_30{
+  color: rgb(13,71,161);
+}
+#temp_40{
+  color: #1565C0;
+}
+#temp_50{
+  color:#0288D1;
+}
+#temp_60{
+  color:#03A9F4;
+}
+#temp_70{
+  color:#4FC3F7;
+}
+#temp_80{
+  color:#BBDEFB;
+}
+#temp_90{
+  color:#EF9A9A;
+}
+#temp_100{
+  color:#E57373;
+}
+#temp_110{
+  color:#F44336;
+}
+#temp_120{
+  color:#C62828;
+}
+
+
+
+
+.fell{
+  font-family:Jazz LET, fantasy;
+   line-height: 95%;
+}
+#fallen{
+  color:rgb(215, 189, 226);	
+}
+#falling{
+  color:rgb(195, 155, 211);	
+}
+#slipped{
+  color:rgb(175, 122, 197);	
+}
+#vanished{
+  color:rgb(155, 89, 182);	
+}
+#jumped{
+  color:rgb(136, 78, 160);	
+}
+#surged{
+  color:rgb(118, 68, 138);	
+}
+#plummeted{
+  color:rgb(99, 57, 116);	
+}
+#climbed{
+  color:rgb(81, 46, 95);	
+}
+#risen{
+  color:rgb(23, 32, 42);	
+}
+
+.story{
+  width: 530px;
+  text-align: justify;
+  text-justify: auto;
+  font-family:Helvetica, sans-serif;
+  font-size: 50px;
+  font-style: bolder;
+}
+#s_1{
+  color: white;
+  text-shadow: 1px 1px 1px #000000;
+}
+#s_2{
+  color:#E0E0E0;
+  text-shadow: 1px 1px 1px #000000;
+}
+#s_3{
+  color:#9E9E9E;
+  text-shadow: 1px 1px 1px #000000;
+  
+}
+#s_4{
+  color:#424242;
+  text-shadow: 1px 1px 1px #000000;
+}
+#s_5{
+  color:#263238;
+  text-shadow: 1px 1px 1px #000000;
+}
+#s_6{
+  color:#212121;
+  text-shadow: 1px 1px 1px #000000;
+}
+#s_7{
+  color:#424242;
+  text-shadow: 1px 1px 1px #000000;
+}
+#s_8{
+  color:#9E9E9E;
+  text-shadow: 1px 1px 1px #000000;
+}
+#s_9{
+  color:#E0E0E0;
+  text-shadow: 1px 1px 1px #000000;
+}
+#s_10{
+  color:white;
+  text-shadow: 1px 1px 1px #000000;
+}
+
+
+
+.cute{
+  font-size: 50px;
+  font-weight: 900
+}
+#owo1{
+  color:rgb(171, 178, 185);	
+}
+#owo2{
+  color:rgb(128, 139, 150  );	
+}
+#owo3{
+  color:rgb(86, 101, 115);	
+}
+#owo4{
+  color:rgb(44, 62, 80);	
+}
+#owo5{
+  color:black
+}
+#owo6{
+  color:rgb(255, 0, 0  );	
+}
+
+.bateman{
+  font-family:Helvetica, sans-serif;
+  font-size: 25px;
+}
+span.think{
+  text-decoration: underline;
+}
+span.printers{
+    background: -webkit-linear-gradient(gray, black);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+span.bone{
+  color: #e3dac9;
+}
+span.gara{
+  font-family: Garamond, Baskerville;
+}
+span.egg{
+  color: #f0ead6
+}
+span.roman{
+  font-family: "Times New Roman";
+}
+span.cool{
+  letter-spacing: 3px;
+  font-size: 30px;
+  font-style: bold;
+}
+span.heavy{
+  font-weight: 1000;
+}
+span.navy{
+  color: #001f3f;
+}
+span.raised{
+  text-shadow: 2px 2px 0px white, 3px 3px grey;
+  
+}
+span.pale{
+  font-family: 'Roboto', sans-serif;
+}
+span.subtle{
+  -webkit-text-stroke-width: .2px;
+  -webkit-text-stroke-color: gold;
+}
+span.thickness{
+  font-weight: 600;
+}
+span.watermark{
+  opacity:0.2;
+}
+
+.Rainbow{
+  background: -webkit-linear-gradient(violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+
