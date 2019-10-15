@@ -1,0 +1,65 @@
+.monster{
+  width: 600px;
+}
+.head{
+  width: 180px;
+  height: 150px;
+  transform: rotate(340deg);
+  position: absolute;
+  top:80px;
+  left:280px;
+  z-index:100;
+}
+.head img{
+  width: 100%;
+}
+.torso{
+  width: 300px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  position: absolute;
+  
+}
+
+
+.left_arm{
+  width: 250px;
+  position:relative;
+  top:130px;
+  left:85px;
+  z-index:100;
+  
+}
+.left_arm img{
+  width: 100%;
+  
+}
+.chest{
+  width: 300px;
+  position: relative;
+  top:100px;
+  left:20px;
+}
+.right_arm{
+  width: 140px;
+  transform: rotate(230deg) scaleX(-1);
+  position:relative;
+  left:-20px;
+  bottom:135px;
+
+}
+
+.right_arm img{  
+ width: 100%;
+}
+
+.board{  
+ width: 270px;
+ position:relative;
+ top:450px;
+ left:280px;
+ z-index: -10;
+}
+.board img{  
+ width: 100%;
+}
