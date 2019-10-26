@@ -1,0 +1,88 @@
+html, body {
+	margin: 0;
+}
+
+.arm {
+  
+  transform: scale(.4) rotate(-45deg);
+  position: absolute;
+  top: -150px;
+  left: -150px;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-name: rotateArm;
+  animation-name: rotateArm;
+   animation-iteration-count: infinite;
+}
+
+@keyframes rotateArm {
+  0% {
+   transform: scale(.4) rotate(-45deg);
+  }
+  60% {
+    transform: scale(.6)  rotate(-155deg);
+  }
+  100% {
+    transform: scale(.4)  rotate(-45deg);
+  }
+}
+
+.baby{
+  
+   transform: scale(.1);
+  position: absolute;
+  top: -550px;
+  left: -650px;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-name: yeetBaby;
+  animation-name: yeetBaby;
+   animation-iteration-count: infinite;
+  z-index: 10;
+}
+
+@keyframes yeetBaby{
+  0%{}
+  50%{transform: translate3d(380px, 280px, 0px) scale(.1);}
+  100%{
+    transform: translate3d(380px, 2000px, 0px) scale(.1);
+  }
+  
+  
+}
+.rim{
+  position: absolute;
+  top: 510px;
+  left: 600px;
+  z-index: 100;
+}
+
+.hoop{
+  position: absolute;
+  top: 250px;
+  left: 500px;
+}
+ .text{
+    color: red;
+   font-family:Helvetica, sans-serif;
+  font-weight: 900;
+  font-size: 50px;
+   position: absolute;
+  top:800px;
+  left:470px;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-name: flash;
+  animation-name: flash;
+  animation-iteration-count: infinite;
+  
+  }
+
+@keyframes flash{
+  0%{opacity:0;}
+  90%{opacity:1;}
+  100%{}
+  
+  
+  
+}
