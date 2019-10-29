@@ -1,0 +1,65 @@
+body {
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/3623157/345684.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#banner{
+  text-align: center;
+  font-size: 95px;
+  margin-top: 100px;
+  font-weight: bold;
+  position: relative;
+  z-index: 10;
+}
+.almond{
+  position: absolute;
+  align-content: middle;
+  left: 35%;
+  bottom: 150px;
+}
+.seed{
+  width: 50px;
+}
+.udders{
+  width: 80px;
+}
+.milk{
+  width: 120px;
+}
+
+
+#corn{
+  height: 250px;
+  z-index: 5;
+  position: fixed;
+  left: 550px;
+  bottom: -100px;
+}
+#bottom{
+  position: fixed;
+  bottom: 0px;
+  z-index:10;
+}
+
+.chicken{
+  position:fixed;
+  align-content: middle;
+  left: 15%;
+  bottom: 150px;
+}
+.egg{
+  width: 50px;
+}
+.chickegg{
+  width: 50px;
+}
+.hen{
+  width: 50px;
+}
+.chick{
+  width: 50px;
+}
+.eggdupe{
+  width: 50px;
+}
