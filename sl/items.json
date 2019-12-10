@@ -1,0 +1,165 @@
+[
+
+	{
+		"IMG": "img/images/dermatology.jpg",
+		"Name": "Dermatologist",
+		"Description": "Deep Extraction Facial",
+		"Price": "$599",
+		"Rating": "3",
+		"Instructions": "Office hours 1am-5am copay required at door, before aloud entree on premise. No sunglasses. Loud children will be taken into separate room by a technician and sedated.",
+		"longDescription": "Deep Extraction Facial, Individual pore opening devices descend on patient mild sedative recommended but not required. 100% guaranteed success rate. "
+	},
+	{
+		"IMG": "img/thumbnails/eye-fire.jpg",
+		"Name": "Laser Eye Surgery",
+		"Description": "Cash or Crypto Only",
+		"Price": "Call for Price - Negotiable",
+		"Rating": "5",
+		"Instructions": "Client must keep both eyes covered completely for 48 hours before and 48 hours procedure. Do not consume spicy foods seven (7) days before procedure. Eye drops to prevent ocular overpressure included.",
+		"longDescription": "Revolutionary technique allows vision correction to 20/20. Willing to work out easy payment schedule for clients. Call to make arrangements at 555-555-5555, ask for Dr. Xiaoping. Must sign waivers."
+	},
+	{
+		"IMG": "img/thumbnails/toothbrush.jpg",
+		"Name": "Dental Management",
+		"Description": "In-Office or In-Home Consultation!!",
+		"Price": "Most Insurance Accepted",
+		"Rating": "2",
+		"Instructions": "Appointments at 2:30 daily. Please bring X-rays and any loose teeth to appointment. Soak donor teeth in hydrogen peroxide for 24 hours prior to appointment.",
+		"longDescription": "Custom Dental Hygiene! In-Office or In-Home Consultation!! Stop nagging tooth pain quickly and seal cavities with direct enamel stimulation. Customer may opt to use donor teeth or may provide their own."
+	},
+	{
+		"IMG": "img/thumbnails/potassium-mask.jpg",
+		"Name": "Potassium Treatment",
+		"Description": "Patented Potassium Mask®",
+		"Price": "Kids are Free!*",
+		"Rating": "1",
+		"Instructions": "Please consult with a doctor before beginning any new treatments. Potassium Mask® is designed to be single-use. Keeps fresh in the refrigerator for up to 4 days or 3 weeks in freezer. Dispose in trash or compost.",
+		"longDescription": "Vitamin K deficiency affects 80% of the population. Protect your families health today! Potassium Mask® comes in a variety of sizes and dosage levels. Overnight shipping included. *Child size Potassium Mask® free with purchase of adult size Potassium Mask®. Offer subject to availability."
+	},
+	{
+		"IMG": "img/thumbnails/vax-man.jpg",
+		"Name": "Vaccine Man",
+		"Description": "Best vaccine for problem children. Fast Acting!",
+		"Price": "Call Now",
+		"Rating": "4",
+		"Instructions": "Arrange Vax-Man with your current physicians office. Do not acknowledge Vax-Man during the visit or inform your children about Vax-Man prior to visit.",
+		"longDescription": "Is your child scared of needles or will not stop crying? Try Vax-Man during your next doctor visit. Vax-Man will distract your children while your doctor completes necessary injections. Discounts available for families and individuals over 18. "
+	},
+	{
+		"IMG": "img/thumbnails/snip.jpg",
+		"Name": "Forbidden Skin Cream",
+		"Description": "Walk-ins Accepted, Same Day Appointments",
+		"Price": "Free Consultation",
+		"Rating": "5",
+		"Instructions": "Please DO NOT consume the cream. I will not recommend this product to anyone who suffers from depression. It is recommended that you avoid these products as they can cause severe side effects including: Looking twenty years younger.  Depression. Depressed muscles. Severe anxiety.",
+		"longDescription": "Limited time supply of the good cream.  The stock is very scarce and can be very expensive. Ensure an even application to avoid side effects. Expectant Mothers Wanted."
+	},
+	{
+		"IMG": "img/thumbnails/sheep.jpg",
+		"Name": "Land Clearing Sheep",
+		"Description": "Sheep and Sheep Guardians.",
+		"Price": "Starting at $499",
+		"Rating": "3",
+		"Instructions": "Do not treat area with pesticides or other chemicals for at least two weeks prior to sheep delivery. Please arrange parking and/or permits for 40’ trailer. Do not interact with sheep after sundown.",
+		"longDescription": "Sheep provide a natural, ecologically friendly means to remove upto 1 acre of moderate brush and weeds per week (minimum 10 sheep and 1 guardian), minimum rental 1 week. Fixed drop-off and pickup fee. Guardians will protect flock from any natural predators, including humans. To arrange services post image of area with #SheepGang to any social media platform."
+	},
+	{
+		"IMG": "img/thumbnails/turtles.jpg",
+		"Name": "Pest Extermination",
+		"Description": "Trained turtles will root out and destroy any rodents that may be bothering you.",
+		"Price": "$999",
+		"Rating": "5",
+		"Instructions": "Turtle handling course provided on drop-off. Do not feed turtles during extermination process. Turtles should remain at contracted site for one week after last vermin sighting.",
+		"longDescription": "Trained turtles with teeth and the ability to grow up a few years in a row are not uncommon. They naturally desire rodent flesh and are highly intelligent.The turtles can live anywhere and will naturally locate any vermin nests, but the turtles are usually not very sensitive to insects. We recommend our line of insect eliminating snakes for ant, termite or roach infestations. Guaranteed Results or Money Back!"
+	},
+	{
+		"IMG": "img/thumbnails/horse.jpg",
+		"Name": "Horse Experience",
+		"Description": "For parents who have children who won't shut up about horses.",
+		"Price": "Prices vary",
+		"Rating": "2",
+		"Instructions": "Bring child and waiver to one of our many offices. Board our underground shuttle service to our farm. Give us your child and we handle the rest. The experience takes 2-9 hours depending on the amount of passion the child has.",
+		"longDescription": "For parents who have children who won't shut up about horses. We have all been there, your kid sees one horse and now are obsessed. They constantly nag you to buy them a horse for their birthday or whatever. Who would want to pay for such an expensive meanless dumb hobby. We are here to help, we provide a genuine terrible horse experience that will forever make your kid afraid and uninterested in horses for the rest of their life. Our horses are trained to bite and stomp all children that come remotely close, liability waiver required "
+	},
+	{
+		"IMG": "img/thumbnails/soundproofing.jpg",
+		"Name": "Sound Proofing",
+		"Description": "low cost emergency sound proofing non toxic and biodegradable",
+		"Price": "$60 Sq Ft",
+		"Rating": "2",
+		"Instructions": "If you are reading this it means we are already on the way to your home, no hassle no appointments fast and easy. Please leave doors and windows unlocked for our arrival. Locked houses are accepted but will be charged an inconvenience of entree fee. Turn off all lights and go to sleep, installation is quite and fast. Dont open eyes or turn lights on for 1 hour, set a timer. Once 1 hour has passed proceed with your day, bill will be left at the front door thank you for your choice",
+		"longDescription": "low cost emergency sound proofing non toxic and biodegradable. Now you have a friend in the sound proofing business refer to instructions for contact information. We provide the materials you give us your home for 1 hour, under no supervision to make your home absolutely sound proof or money back."
+	},
+	{
+		"IMG": "img/thumbnails/unlimited-energy.jpg",
+		"Name": "Certified Electric",
+		"Description": "We are a full-service electrical contracting company.",
+		"Price": "$80",
+		"Rating": "3",
+		"Instructions": "Cash is best, $300 minimum for card no animals or small children on property during service hours. After work is done, it's up to the owner's discretion",
+		"longDescription": "We are a full-service electrical contracting company, and we take pride in working together with our customers. Our firm is fully LICENSED and INSURED for Electrical work for both Commercial and Residential projects. Estimates are always free and professional. The company is staffed with conscientious, professional individuals who genuinely care about quality."
+	},
+	{
+		"IMG": "img/thumbnails/contractor.jpg",
+		"Name": "Plumber",
+		"Description": "Plumbers that think outside the box, on jah",
+		"Price": "Donation to Scientology",
+		"Rating": "2",
+		"Instructions": "This service is temporarily unavailable $25 has been deducted from your load, check back in 24 hours for updated instructions",
+		"longDescription": "Plumbers that think outside the box, one way or another we will fix it and that's on jah. Our plumbing experts are ready to take on any issue, big and small, at your home or business. From dripping faucets and pipe leaks, sewer & drain cleaning and water heater replacement, we’ve got you covered. We’re here for you 24 hours a day, 7 days a week, nights, weekends and holidays, at no extra charge for all plumbing and drain services!"
+	},
+	{
+		"IMG": "img/thumbnails/cannibal-experience.jpg",
+		"Name": "Cannibal Experience",
+		"Description": "Interactive Culinary Experience",
+		"Price": "$150pp",
+		"Rating": "2",
+		"Instructions": "Wash normally with soap and water prior to reservation. Physician certificate of health required. Allow two-weeks for blood testing and collection.",
+		"longDescription": "Overload your five senses with this limited-time interactive dining experience. Feel, smell, and taste exquisite, freshly prepared long pig. No animals harmed. Try select cuts from you and your friends. Painless and sterile procedures. Once in a lifetime experience."
+	},
+	{
+		"IMG": "img/thumbnails/extreme-marinara.jpg",
+		"Name": "Chef and Foot Massage",
+		"Description": "Michelin star chefs",
+		"Price": "300$ per day plus room and board",
+		"Rating": "2",
+		"Instructions": "Clean your kitchen before I show up, don't waste my time. ",
+		"longDescription": "Michilian star chef with 40 years of experience. Capable of taking anything in the fridge and making a meal out of it. I make pasta that is out of this world forget about it! I will cook all your meals up to 5 people. Foot massage therapy in tomato sauce included."
+	},
+	{
+		"IMG": "img/thumbnails/carrots.jpg",
+		"Name": "Carrots!",
+		"Description": "Very Good Taste!",
+		"Price": "FREE",
+		"Rating": "5",
+		"Instructions": "Cook carrot and eat or eat carrot raw!!",
+		"longDescription": "I make many carrots. Very clean carrot for you to eat. No money = Yes carrot. Carrot washed in machine. No radiation. Very clean farm in Ivankiv District, Ukraine Shipping extra. Товарищ не ест морковь."
+	},
+	{
+		"IMG": "img/thumbnails/neckbelt.jpg",
+		"Name": "Whiplash Arresting Device",
+		"Description": "Compatible with all vehicles!",
+		"Price": "$50",
+		"Rating": "3",
+		"Instructions": "Use only as directed. Buckle snuggly around neck.",
+		"longDescription": "Prevent whiplash and other common injuries in motor-vehicle accidents. Perfect for old vehicles without side-airbags. Superior protection to in-wheel airbags. Available individually or in sets of 4. Greatly reduces insurance bills! Perfect gift for Gen Z and Millenials!"
+	},
+	{
+		"IMG": "img/thumbnails/elmo.jpg",
+		"Name": "Red Therapy Monster*",
+		"Description": "Alternative to traditional therapy!",
+		"Price": "$99 per session",
+		"Rating": "4",
+		"Instructions": "Non-sexual services only. Must be referred to solely as Red Therapy Monster*. Group sessions not allowed. Three session minimum.  Red Therapy Monster* will never remove any article of clothing no matter how hot it gets.",
+		"longDescription": "Available at Times Square Location in NYC and on Hollywood Blvd in LA. Red Therapy Monster* offers quick curbside sessions guaranteed to change your life. Round the clock, live-in service available on request. *Not licenced to practice therapy. Red Therapy Monster provides a life-coaching experience."
+	},
+	{
+		"IMG": "img/thumbnails/exotic-birds.jpg",
+		"Name": "Exotic \"Bird\" Rental",
+		"Description": "High Quality Spy Drones",
+		"Price": "Call for Quote",
+		"Rating": "5",
+		"Instructions": "Insurance required. Not available in NY, FL, or DC. Feeding is not necessary. Optional low-light and thermal cameras, .",
+		"longDescription": "Cheating spouse? Truant Child? Annoying Boss? Our flock of spy drones can blend into any environment, providing undetectable mobile and fixed surveillance. Drones can be deployed using simple web or smartphone management. Get live video and detailed photos sent directly to your phone 24/7."
+	}
+]
