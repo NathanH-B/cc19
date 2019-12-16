@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+      alert("It is too late, your computer is now cursed.");
 
       $.getJSON("./items.json", function(items) {
           var html = '';
