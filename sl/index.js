@@ -1,5 +1,5 @@
 $(document).ready(function(){
-      alert("It is too late, your computer is now cursed.");
+      alert("Warning! This website is cursed. Close your browser now to prevent cursed content from loading.");
 
       $.getJSON("./items.json", function(items) {
           var html = '';
